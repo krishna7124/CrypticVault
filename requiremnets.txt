@@ -3,6 +3,7 @@ numpy
 pillow
 cryptography
 pydub
+PyMySQL
 mysql-connector-python==8.2.0
 opencv-python
 face_recognition
