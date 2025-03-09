@@ -4,7 +4,7 @@ pillow
 cryptography
 pydub
 PyMySQL
-mysql-connector-python==8.2.0
+mysql-connector-python-rf
 opencv-python
 face_recognition
 SpeechRecognition
