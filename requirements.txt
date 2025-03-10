@@ -3,7 +3,7 @@ numpy
 pillow
 cryptography
 pydub
-mysqlclient==2.1.1
+mysqlclient==2.1.1 --no-binary :all:
 SQLAlchemy
 opencv-python
 face_recognition
